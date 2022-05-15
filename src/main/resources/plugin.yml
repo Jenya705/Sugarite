@@ -1,0 +1,6 @@
+name: Sugarite
+version: '${version}'
+main: com.github.jenya705.sugarite.SugaritePlugin
+api-version: 1.18
+authors: [ Jenya705 ]
+description: Custom minecraft objects for paper servers
